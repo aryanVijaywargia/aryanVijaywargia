@@ -18,15 +18,18 @@
 
 **Talking about Personal Stuffs:**
 
-- 🌱 I’m currently learning Deep Reinforcement Learning; 
+- 🌱 I’m currently learning Deep Reinforcement Learning and diving deeper into Computer Vision; 
 
 - 🤔 My interests are with Natural Language Processing/Understanding, Computer vision, Reinforcement Learning, etc..;
 
-- 💼 I’m pursuing a Bachelor's degree in Electrical Engineering;
+- 💼 I’m pursuing a Bachelor's degree in Computer Science & Engineering;
+
+- 👯 I’m open to collaborate data hackathons 💙
 
 - 💬 Wanna talk Physics or Algorithms, reach out to me.
 
 - 📫 Please email via aryanvijaywargia@gmail.com to reach me.
+
 
 
 **Languages and Tools:**  
