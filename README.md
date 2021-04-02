@@ -4,27 +4,21 @@
 [![Gmail Badge](https://img.shields.io/badge/-aryanvijaywargia@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mailaryanvijaywargia@gmail.com)](mailto:mailaryanvijaywargia@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/aryan-vijaywargia-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aryan-vijaywargia/)](https://www.linkedin.com/in/aryan-vijaywargia/) 
 
-
-<!-- <a href="https://www.linkedin.com/in/aryan-vijaywargia/">
-  <img align="left" alt="LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://twitter.com/code_Busterr/">
-  <img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a> -->
- <!-- <img align="right" alt="My Coding Life" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" width="450" > -->
 <img src="https://media.giphy.com/media/l2JhDNcWIfICZVWlW/giphy.gif" align='right' width="450">
 
 **Talking about Personal Stuffs:**
 
 - 🌱 I’m currently learning Deep Reinforcement Learning and diving deeper into Computer Vision; 
 
-- 🤔 My interests are with Natural Language Processing, Computer vision, Reinforcement Learning, etc..;
+- 🔭 I’m currently working on few computer vision projects.
+
+- 🤔 My interests are in Natural Language Processing, Computer vision, Reinforcement Learning..;
 
 - 💼 I’m pursuing a Bachelor's degree in Computer Science & Engineering;
 
 - 👯 I’m open to collaborate on any data hackathons💙
 
-- 💬 Wanna talk Physics or Algorithms, reach out to me.
+- 💬 Ask me about Computer Vision, NLP, Python, DSA.  
 
 - 📫 Please email via aryanvijaywargia@gmail.com to reach me.
 
@@ -44,13 +38,3 @@
 <code> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></code>
 <code><img src="https://github.com/valohai/ml-logos/blob/master/keras.svg" width="40" height="40"></code>
 <code><img src="https://github.com/valohai/ml-logos/blob/master/scikit-learn.svg" width="40" height="40"></code>
-
-
-<!-- https://github.com/valohai/ml-logos/blob/master/scikit-learn.svg -->
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WinterSoldier13&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats) -->
-<!-- <code><img height="20" src="https://raw.githubusercontent.com/github/explore/https://www.cprogramming.com"></code> -->
-<!-- <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code> -->
-<!-- <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code> -->
-<!-- <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code> -->
-<!-- <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code> -->
-
