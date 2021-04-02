@@ -16,6 +16,8 @@
 <!-- Visit my profile at <a href="http://www.caffeine-coated.codes/" target="__blank">http://www.caffeine-coated.codes/</a> -->
   <img align="right" alt="GIF" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" />
 
+<br />
+<br />
 **Talking about Personal Stuffs:**
 
 - 🌱 I’m currently learning Deep Reinforcement Learning; 
