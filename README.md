@@ -17,7 +17,7 @@
 
 - 💼 I’m pursuing a Bachelor's degree in Computer Science & Engineering;
 
-- 👯 I’m open to collaborate on any data hackathons 💙
+- 👯 I’m open to collaborate on any data hackathons💙
 
 - 💬 Wanna talk Physics or Algorithms, reach out to me.
 
