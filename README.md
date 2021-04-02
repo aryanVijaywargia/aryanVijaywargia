@@ -12,7 +12,7 @@
 
 - 🔭 I’m currently working on few computer vision projects.
 
-- 🤔 My interests are in Natural Language Processing, Computer vision, Reinforcement Learning..;
+- 🤔 My interests are in Natural Language Processing, Computer vision, Competitive Coding..;
 
 - 💼 I’m pursuing a Bachelor's degree in Computer Science & Engineering;
 
@@ -39,3 +39,4 @@
 <code> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></code>
 <code><img src="https://github.com/valohai/ml-logos/blob/master/keras.svg" width="40" height="40"></code>
 <code><img src="https://github.com/valohai/ml-logos/blob/master/scikit-learn.svg" width="40" height="40"></code>
+<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></code>
