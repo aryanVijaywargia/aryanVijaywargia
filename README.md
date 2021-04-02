@@ -16,8 +16,6 @@
 <!-- Visit my profile at <a href="http://www.caffeine-coated.codes/" target="__blank">http://www.caffeine-coated.codes/</a> -->
   <img align="right" alt="GIF" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" />
 
-<br />
-<br />
 **Talking about Personal Stuffs:**
 
 - 🌱 I’m currently learning Deep Reinforcement Learning; 
@@ -36,10 +34,10 @@
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
-
+<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/></code>
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WinterSoldier13&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats) -->
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/https://www.cprogramming.com"></code>
+<!-- <code><img height="20" src="https://raw.githubusercontent.com/github/explore/https://www.cprogramming.com"></code> -->
 <!-- <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code> -->
 <!-- <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code> -->
 <!-- <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code> -->
