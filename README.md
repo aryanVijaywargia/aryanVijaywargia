@@ -38,7 +38,10 @@
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></code>
 <code> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></code>
 <code><img src="https://github.com/valohai/ml-logos/blob/master/keras.svg" width="40" height="40"></code>
+<code><img src="https://github.com/valohai/ml-logos/blob/master/scikit-learn.svg" width="40" height="40"></code>
 
+
+<!-- https://github.com/valohai/ml-logos/blob/master/scikit-learn.svg -->
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WinterSoldier13&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats) -->
 <!-- <code><img height="20" src="https://raw.githubusercontent.com/github/explore/https://www.cprogramming.com"></code> -->
 <!-- <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code> -->
