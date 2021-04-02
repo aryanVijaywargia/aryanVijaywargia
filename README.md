@@ -11,8 +11,8 @@
 <a href="https://twitter.com/code_Busterr/">
   <img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a> -->
-
-<img src="https://media.giphy.com/media/l2JhDNcWIfICZVWlW/giphy.gif" align='right'>
+ <!-- <img align="right" alt="My Coding Life" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" width="450" > -->
+<img src="https://media.giphy.com/media/l2JhDNcWIfICZVWlW/giphy.gif" align='right' width="450">
 
 **Talking about Personal Stuffs:**
 
