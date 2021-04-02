@@ -14,7 +14,9 @@
 
 <!-- Hi there, I'm **Ayush**, a **Full-Stack Developer**  and a **Competetive Coder** 🚀. -->
 <!-- Visit my profile at <a href="http://www.caffeine-coated.codes/" target="__blank">http://www.caffeine-coated.codes/</a> -->
-  <img align="right" alt="GIF" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" />
+<!-- <img align="right" alt="GIF" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" /> -->
+<img src='https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif' align='right'>
+
 
 **Talking about Personal Stuffs:**
 
@@ -24,7 +26,7 @@
 
 - 💼 I’m pursuing a Bachelor's degree in Computer Science & Engineering;
 
-- 👯 I’m open to collaborate data hackathons 💙
+- 👯 I’m open to collaborate on any data hackathons 💙
 
 - 💬 Wanna talk Physics or Algorithms, reach out to me.
 
