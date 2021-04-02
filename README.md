@@ -1,7 +1,7 @@
 ### Hey 👋, I'm Aryan
 
-[![Twitter Badge](https://img.shields.io/badge/-@code_Busterr-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/code_Busterr)](https://twitter.com/code_Busterr/) [![Linkedin Badge](https://img.shields.io/badge/-aryan-vijaywargia-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aryan-vijaywargia/)](https://www.linkedin.com/in/aryan-vijaywargia/) 
-[![Gmail Badge](https://img.shields.io/badge/-mailaryanvijaywargia@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mailaryanvijaywargia@gmail.com)](mailto:mailaryanvijaywargia@gmail.com)
+[![Twitter Badge](https://img.shields.io/badge/-@code_Busterr-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/code_Busterr)](https://twitter.com/code_Busterr/) [![Linkedin Badge](https://img.shields.io/badge/-aryan-vijaywargia-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aryanvijaywargia/)](https://www.linkedin.com/in/aryan-vijaywargia/) 
+[![Gmail Badge](https://img.shields.io/badge/-aryanvijaywargia@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mailaryanvijaywargia@gmail.com)](mailto:mailaryanvijaywargia@gmail.com)
 
 <a href="https://www.linkedin.com/in/aryan-vijaywargia/">
   <img align="left" alt="LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
