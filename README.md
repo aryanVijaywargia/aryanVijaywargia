@@ -6,17 +6,8 @@
 <a href="https://twitter.com/code_Busterr/">
   <img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
-<!-- <a href="https://www.facebook.com/winterSoldier1315">
-  <img align="left" alt="Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
-</a> -->
-<!-- <br />
-<br /> -->
 
-<!-- Hi there, I'm **Ayush**, a **Full-Stack Developer**  and a **Competetive Coder** 🚀. -->
-<!-- Visit my profile at <a href="http://www.caffeine-coated.codes/" target="__blank">http://www.caffeine-coated.codes/</a> -->
-<!-- <img align="right" alt="GIF" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" /> -->
 <img src='https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif' align='right'>
-
 
 **Talking about Personal Stuffs:**
 
