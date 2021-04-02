@@ -22,7 +22,7 @@
 - 🤔 My interests are with Natural Language Processing/Understanding, Computer vision, Reinforcement Learning, etc..;
 - 💼 I’m pursuing a Bachelor's degree in Electrical Engineering;
 - 💬 Wanna talk Physics or Algorithms, reach out to me.
-- 📫 Please email via ayushsingh1315@gmail.com to reach me.
+- 📫 Please email via aryanvijaywargia@gmail.com to reach me.
 
 
 **Languages and Tools:**  
