@@ -7,7 +7,7 @@
   <img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 
-<img src='https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif' align='right'>
+<!-- <img src='https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif' align='right'> -->
 
 **Talking about Personal Stuffs:**
 
