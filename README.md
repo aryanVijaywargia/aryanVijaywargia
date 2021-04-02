@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning Deep Reinforcement Learning and diving deeper into Computer Vision; 
 
-- 🤔 My interests are with Natural Language Processing/Understanding, Computer vision, Reinforcement Learning, etc..;
+- 🤔 My interests are with Natural Language Processing, Computer vision, Reinforcement Learning, etc..;
 
 - 💼 I’m pursuing a Bachelor's degree in Computer Science & Engineering;
 
@@ -23,7 +23,7 @@
 
 - 📫 Please email via aryanvijaywargia@gmail.com to reach me.
 
-
+- ⚡ Fun fact: Internet users blink less than usual.
 
 **Languages and Tools:**  
 
