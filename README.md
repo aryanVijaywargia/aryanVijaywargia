@@ -1,4 +1,4 @@
-### Hey 👋, I'm Aryan
+### Hi 👋, I'm Aryan
 
 [![Twitter Badge](https://img.shields.io/badge/-@code_Busterr-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/code_Busterr)](https://twitter.com/code_Busterr/) 
 [![Gmail Badge](https://img.shields.io/badge/-aryanvijaywargia@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mailaryanvijaywargia@gmail.com)](mailto:mailaryanvijaywargia@gmail.com)
