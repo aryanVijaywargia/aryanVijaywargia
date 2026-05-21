@@ -16,7 +16,7 @@ I enjoy building systems that sit between product experience and infrastructure 
 ### About me
 
 - 🔭 Currently working on **AI agent orchestration platforms**, including streaming runtimes, tool integrations, and human-in-the-loop workflows.
-- ⚙️ I work mostly with **Go, C#/.NET, TypeScript, Python, React, Angular, Elasticsearch, Kafka, MongoDB, PostgreSQL, and Kubernetes**.
+- ⚙️ I work mostly with **Go, C#/.NET, TypeScript, Python, React, Angular, Elasticsearch, Kafka, MongoDB, PostgreSQL, Redis, and Docker**.
 - 🧠 Interested in **LLM agents, distributed systems, semantic search, durable execution, developer tools, and system design**.
 - 🛠️ Built systems around **AG-UI streaming, MCP client pooling, LangGraph/LangChain workflows, Elasticsearch query runtimes, CDC pipelines, and AI agent debugging**.
 - 🚀 Building **Continua**, a local-first debugger and durable execution toolkit for AI agent workflows.
@@ -27,12 +27,23 @@ I enjoy building systems that sit between product experience and infrastructure 
 
 ### Featured work
 
-**Continua**  
+#### Continua
+
 A self-hosted debugging tool for AI agent runs, designed to run locally as a simple binary.
 
 AI agent workflows can be hard to understand because failures often happen across LLM calls, tool executions, retries, state changes, and branching decisions. Continua gives developers a local trace debugger where they can inspect what happened, compare attempts, view timelines, and understand why an agent failed, retried, or behaved differently than expected.
 
 Built with a **Go/PostgreSQL backend**, a **Python SDK**, and a **React/TypeScript UI** for exploring spans, payloads, retries, state changes, and execution history.
+
+---
+
+### Things I like building
+
+- **AI agent runtimes** — orchestration, tool execution, streaming, state handling, and human-in-the-loop flows.
+- **Search systems** — lexical search, semantic search, query builders, ranking, filters, and Elasticsearch-backed platforms.
+- **Developer tools** — debuggers, trace viewers, workflow inspectors, and tools that make complex systems easier to understand.
+- **Backend platforms** — APIs, workers, data sync pipelines, event-driven systems, and durable workflow components.
+- **Frontend experiences** — clean UIs for debugging, monitoring, reviewing, and interacting with complex backend systems.
 
 ---
 
@@ -50,8 +61,8 @@ React · Angular · TypeScript · Micro-frontends
 **AI / Agent Systems**  
 LangGraph · LangChain · MCP · AG-UI · RAG · OpenAI · Claude · Prompt Engineering · Multi-Agent Systems
 
-**Cloud & DevOps**  
-Docker · Kubernetes · Azure · AWS · Git · GitHub · CI/CD
+**Tooling & Practices**  
+Docker · Git · GitHub · CI/CD · Linux · Code Review · System Design · Agile · Unit Testing · Integration Testing
 
 ---
 
@@ -71,7 +82,28 @@ Docker · Kubernetes · Azure · AWS · Git · GitHub · CI/CD
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="40" height="40" alt="Redis"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elasticsearch/elasticsearch-original.svg" width="40" height="40" alt="Elasticsearch"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40" alt="Docker"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="40" height="40" alt="Kubernetes"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" alt="GitHub"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40" alt="Linux"/>
 </p>
+
+---
+
+### Current focus
+
+I'm currently exploring and building around:
+
+- Durable execution patterns for AI agents
+- Local-first debugging tools for agent workflows
+- Better observability for LLM calls, tool calls, retries, and state transitions
+- Search and retrieval systems for enterprise workflows
+- Human-in-the-loop agent review and resume flows
+
+---
+
+### Connect with me
+
+- Portfolio: [aryanvijaywargia.com](https://aryanvijaywargia.com)
+- LinkedIn: [linkedin.com/in/aryan-vijaywargia](https://www.linkedin.com/in/aryan-vijaywargia/)
+- GitHub: [github.com/aryanVijaywargia](https://github.com/aryanVijaywargia)
+- Email: [aryanvijaywargia@gmail.com](mailto:aryanvijaywargia@gmail.com)
