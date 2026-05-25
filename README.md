@@ -9,15 +9,19 @@
   <a href="https://aryanvijaywargia.com">
     <img src="https://img.shields.io/badge/WEBSITE-F7DF1E?style=for-the-badge&logo=html5&logoColor=black" alt="Website"/>
   </a>
-  <a href="https://www.youtube.com/@aryanvijaywargia">
-    <img src="https://img.shields.io/badge/YOUTUBE-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
-  </a>
+  &nbsp;&nbsp;
   <a href="https://twitter.com/aryanvijaywargi">
     <img src="https://img.shields.io/badge/EXTWITTER-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
   </a>
+  &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/aryan-vijaywargia/">
     <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
+  &nbsp;&nbsp;
+  <a href="mailto:aryanvijaywargia@gmail.com">
+    <img src="https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  &nbsp;&nbsp;
   <a href="https://github.com/sponsors/aryanVijaywargia">
     <img src="https://img.shields.io/badge/SPONSOR-181717?style=for-the-badge&logo=github&logoColor=white" alt="Sponsor"/>
   </a>
