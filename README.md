@@ -14,7 +14,7 @@
   </a>
   &nbsp;&nbsp;
   <a href="https://twitter.com/aryanvijaywargi" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/%20%20%20EXTWITTER%20%20%20-000000?style=for-the-badge&logo=x&logoColor=white" height="36" alt="X"/>
+    <img src="https://img.shields.io/badge/%20%20%20X%20%20%20-000000?style=for-the-badge&logo=x&logoColor=white" height="36" alt="X"/>
   </a>
 </p>
 
