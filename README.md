@@ -1,24 +1,19 @@
 ### Hi 👋, I'm Aryan Vijaywargia
 
-[![Twitter Badge](https://img.shields.io/badge/-@aryanvijaywargi-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/aryanvijaywargi)](https://twitter.com/aryanvijaywargi/)
-[![Gmail Badge](https://img.shields.io/badge/-aryanvijaywargia@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:aryanvijaywargia@gmail.com)](mailto:aryanvijaywargia@gmail.com)
-[![LinkedIn Badge](https://img.shields.io/badge/aryan--vijaywargia-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aryan-vijaywargia/)](https://www.linkedin.com/in/aryan-vijaywargia/)
-[![Website Badge](https://img.shields.io/badge/Portfolio-aryanvijaywargia.com-black?style=flat-square&logo=google-chrome&logoColor=white)](https://aryanvijaywargia.com)
-
 <p align="left">
-  <a href="https://aryanvijaywargia.com">
+  <a href="https://aryanvijaywargia.com" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/%20%20%20WEBSITE%20%20%20-F7DF1E?style=for-the-badge&logo=html5&logoColor=black" height="36" alt="Website"/>
   </a>
   &nbsp;&nbsp;
-  <a href="mailto:aryanvijaywargia@gmail.com">
+  <a href="mailto:aryanvijaywargia@gmail.com" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/%20%20%20MAIL%20%20%20-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="36" alt="Mail"/>
   </a>
   &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/aryan-vijaywargia/">
+  <a href="https://www.linkedin.com/in/aryan-vijaywargia/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/%20%20%20LINKEDIN%20%20%20-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="36" alt="LinkedIn"/>
   </a>
   &nbsp;&nbsp;
-  <a href="https://twitter.com/aryanvijaywargi">
+  <a href="https://twitter.com/aryanvijaywargi" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/%20%20%20EXTWITTER%20%20%20-000000?style=for-the-badge&logo=x&logoColor=white" height="36" alt="X"/>
   </a>
 </p>
