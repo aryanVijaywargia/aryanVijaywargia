@@ -5,6 +5,24 @@
 [![LinkedIn Badge](https://img.shields.io/badge/aryan--vijaywargia-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aryan-vijaywargia/)](https://www.linkedin.com/in/aryan-vijaywargia/)
 [![Website Badge](https://img.shields.io/badge/Portfolio-aryanvijaywargia.com-black?style=flat-square&logo=google-chrome&logoColor=white)](https://aryanvijaywargia.com)
 
+<p align="left">
+  <a href="https://aryanvijaywargia.com">
+    <img src="https://img.shields.io/badge/WEBSITE-F7DF1E?style=for-the-badge&logo=html5&logoColor=black" alt="Website"/>
+  </a>
+  <a href="https://www.youtube.com/@aryanvijaywargia">
+    <img src="https://img.shields.io/badge/YOUTUBE-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
+  </a>
+  <a href="https://twitter.com/aryanvijaywargi">
+    <img src="https://img.shields.io/badge/EXTWITTER-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
+  </a>
+  <a href="https://www.linkedin.com/in/aryan-vijaywargia/">
+    <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/sponsors/aryanVijaywargia">
+    <img src="https://img.shields.io/badge/SPONSOR-181717?style=for-the-badge&logo=github&logoColor=white" alt="Sponsor"/>
+  </a>
+</p>
+
 <img src="https://media.giphy.com/media/l2JhDNcWIfICZVWlW/giphy.gif" align="right" width="360">
 
 I'm a Senior Software Engineer at **GEP Worldwide**, working on AI agent orchestration, backend systems, search platforms, streaming runtimes, and durable human-in-the-loop workflows.
