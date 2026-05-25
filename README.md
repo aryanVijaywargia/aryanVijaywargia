@@ -7,23 +7,19 @@
 
 <p align="left">
   <a href="https://aryanvijaywargia.com">
-    <img src="https://img.shields.io/badge/WEBSITE-F7DF1E?style=for-the-badge&logo=html5&logoColor=black" alt="Website"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://twitter.com/aryanvijaywargi">
-    <img src="https://img.shields.io/badge/EXTWITTER-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/aryan-vijaywargia/">
-    <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/%20%20%20WEBSITE%20%20%20-F7DF1E?style=for-the-badge&logo=html5&logoColor=black" height="36" alt="Website"/>
   </a>
   &nbsp;&nbsp;
   <a href="mailto:aryanvijaywargia@gmail.com">
-    <img src="https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+    <img src="https://img.shields.io/badge/%20%20%20MAIL%20%20%20-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="36" alt="Mail"/>
   </a>
   &nbsp;&nbsp;
-  <a href="https://github.com/sponsors/aryanVijaywargia">
-    <img src="https://img.shields.io/badge/SPONSOR-181717?style=for-the-badge&logo=github&logoColor=white" alt="Sponsor"/>
+  <a href="https://www.linkedin.com/in/aryan-vijaywargia/">
+    <img src="https://img.shields.io/badge/%20%20%20LINKEDIN%20%20%20-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="36" alt="LinkedIn"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://twitter.com/aryanvijaywargi">
+    <img src="https://img.shields.io/badge/%20%20%20EXTWITTER%20%20%20-000000?style=for-the-badge&logo=x&logoColor=white" height="36" alt="X"/>
   </a>
 </p>
 
